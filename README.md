@@ -7,7 +7,7 @@ FibroVision is a machine learning project focused on automating the classificati
 
 # Features
 ## Automated IPF Detection:
-Utilizes CNNs to classify IPF progression in chest CT scans, reducing diagnostic time.
+Utilizes OpenCV to classify IPF progression in chest CT scans, reducing diagnostic time.
 ## Clinical Data Integration: 
 Incorporates Forced Vital Capacity (FVC) and other clinical data to improve classification accuracy.
 ## User-Friendly Interface:
