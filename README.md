@@ -20,12 +20,18 @@ Processes large datasets, meeting the growing demands of medical data analysis.
 # Requirements
 ## Hardware:
 Processor: Dual Core 2.00 GHz or higher
+<br>
 RAM: 2GB minimum
+<br>
 Storage: 120 GB hard disk
+<br>
 ## Software:
 Operating System: Windows 7/8/8.1/10/11
+<br>
 Programming Language: Python
+<br>
 Libraries: TensorFlow, Keras, OpenCV, NumPy
+<br>
 
 ## System Architecture
 
