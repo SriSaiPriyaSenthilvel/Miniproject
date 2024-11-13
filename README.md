@@ -35,7 +35,7 @@ Libraries: TensorFlow, Keras, OpenCV, NumPy
 
 ## System Architecture
 
-![image](https://github.com/user-attachments/assets/78ff67d9-d7a6-478d-b6bb-bcc38af51c9b)
+![image](https://github.com/user-attachments/assets/c6ba244c-d60d-4bad-94e1-ad334dc0d934)
 
 ## Output
 
