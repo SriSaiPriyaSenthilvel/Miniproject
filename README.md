@@ -48,7 +48,6 @@ Libraries: TensorFlow, Keras, OpenCV, NumPy
 ![image](https://github.com/user-attachments/assets/4ee4ee1c-d926-4e5c-a0a3-0e2cbc64d11e)
 
 Detection Accuracy: 81%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
