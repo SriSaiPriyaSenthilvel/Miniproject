@@ -1,29 +1,28 @@
 ## FibroVision: OpenCV-Powered Insights for IPF Progression
 
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+"FibroVision: OpenCV-Powered Insights for IPF Progression" is a machine learning-based diagnostic tool designed to aid in the detection and classification of Idiopathic Pulmonary Fibrosis (IPF) using chest CT scans. By integrating clinical data with image processing techniques, this project enhances diagnostic speed, consistency, and accuracy, providing valuable support for radiologists in identifying IPF progression and improving patient outcomes.
 
-## About
+# About
 FibroVision is a machine learning project focused on automating the classification and analysis of Idiopathic Pulmonary Fibrosis (IPF) through chest CT scans. By integrating advanced image processing with clinical data, this tool aids radiologists in diagnosing IPF more quickly, accurately, and consistently. The project leverages Convolutional Neural Networks (CNNs) powered by OpenCV to recognize and predict disease progression, supporting timely medical intervention.
 
-## Features
-# Automated IPF Detection:
+# Features
+## Automated IPF Detection:
 Utilizes CNNs to classify IPF progression in chest CT scans, reducing diagnostic time.
-# Clinical Data Integration: 
+## Clinical Data Integration: 
 Incorporates Forced Vital Capacity (FVC) and other clinical data to improve classification accuracy.
-# User-Friendly Interface:
+## User-Friendly Interface:
 Designed for easy interpretation by radiologists.
-# Consistent and Objective Diagnoses: 
+## Consistent and Objective Diagnoses: 
 Eliminates subjectivity, providing reliable support for decision-making.
-# High Efficiency: 
+## High Efficiency: 
 Processes large datasets, meeting the growing demands of medical data analysis.
 
-## Requirements
-# Hardware:
+# Requirements
+## Hardware:
 Processor: Dual Core 2.00 GHz or higher
 RAM: 2GB minimum
 Storage: 120 GB hard disk
-# Software:
+## Software:
 Operating System: Windows 7/8/8.1/10/11
 Programming Language: Python
 Libraries: TensorFlow, Keras, OpenCV, NumPy
