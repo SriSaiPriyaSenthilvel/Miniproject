@@ -38,14 +38,15 @@ Libraries: TensorFlow, Keras, OpenCV, NumPy
 ![image](https://github.com/user-attachments/assets/c6ba244c-d60d-4bad-94e1-ad334dc0d934)
 
 ## Output
+![image](https://github.com/user-attachments/assets/0654d81d-8bae-4202-8f97-8da072ef9aa0)
 
-![image](https://github.com/user-attachments/assets/81c160ba-f0cf-4c4a-8fa7-38223012f39b)
+![image](https://github.com/user-attachments/assets/0b8c3f62-2777-49e2-aaa4-a3912eb19640)
 
-![image](https://github.com/user-attachments/assets/9ac40c4b-d4df-4e8c-8362-1cebdde7df96)
+![image](https://github.com/user-attachments/assets/12ed9955-abaf-4029-9888-8680881e6e5d)
 
-![image](https://github.com/user-attachments/assets/9088c4cd-9131-43f8-9667-46815765219e)
+![image](https://github.com/user-attachments/assets/89910695-2e3a-4e2c-91f0-d179558b91f3)
 
-![image](https://github.com/user-attachments/assets/4ee4ee1c-d926-4e5c-a0a3-0e2cbc64d11e)
+![image](https://github.com/user-attachments/assets/219b0733-481f-4e48-98bb-40447d0c54e7)
 
 Detection Accuracy: 81%
 
